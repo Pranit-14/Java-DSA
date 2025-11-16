@@ -27,5 +27,6 @@ public class InsertionSort {
 /*
  		i------> 0 to arr.length-1 (i++)
  		j------> i+1 to 0 (j--)
- 		compare j and j-1 and swap 
+ 		if j < j-1 then 
+ 					compare j and j-1 and swap else break 
 */
